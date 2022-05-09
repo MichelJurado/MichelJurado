@@ -4,6 +4,7 @@
 <h2>👨‍💻 Projects and Programs:</h2>
 
 - [Foreign Car Website](https://micheljurado.github.io/ForeignCarWebsite/)
+- [MJ Logistics Express LLC](https://micheljurado.github.io/MJ-LOGISTICS/index.html)
 
 
 <h2>📄 Certifications</h2>
