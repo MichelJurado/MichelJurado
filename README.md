@@ -6,6 +6,7 @@
 - [Ecommerce Project](https://ecommerce-app-5a7a6.web.app/)
 - [Calendly Blazor API](https://github.com/MichelJurado/CalendlyBlazorAPI)
 - [SoccerConsoleAPI](https://github.com/MichelJurado/SoccerConsoleAPI)
+- [Math Web App](https://github.com/MichelJurado/MathWebApp)
 - [Portfolio Website](https://michelportfolio-16fe2.web.app/index.html)
 - [Foreign Car Website](https://micheljurado.github.io/ForeignCarWebsite/)
 - [MJ Logistics Express LLC](https://micheljurado.github.io/MJ-LOGISTICS/index.html)
