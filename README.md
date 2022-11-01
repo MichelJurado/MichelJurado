@@ -7,6 +7,7 @@
 - [Calendly Blazor API](https://github.com/MichelJurado/CalendlyBlazorAPI)
 - [SoccerConsoleAPI](https://github.com/MichelJurado/SoccerConsoleAPI)
 - [SimpleAuthenticationBlazor](https://github.com/MichelJurado/SimpleAuthenticationApp#readme)
+- [InventoryWebApp](https://github.com/MichelJurado/InventoryWebApp)
 - [Math Web App](https://github.com/MichelJurado/MathWebApp)
 - [Portfolio Website](https://michelportfolio-16fe2.web.app/index.html)
 - [Foreign Car Website](https://micheljurado.github.io/ForeignCarWebsite/)
